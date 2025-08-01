@@ -11,7 +11,6 @@ DataManager.template = {
 	LogInTimes = 0,
 	wins = 0,
 	gamesPlayed = 0,
-	robuxSpent = 0,
 	banned = false,
 }
 
